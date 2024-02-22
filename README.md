@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aimee-sagbo-deel
-- 👀 I’m interested in TypeScript, Best Practices, React
-- 🌱 I’m currently learning React, 
+- 👋 Hi, I’m Aimée SAGBO
+- 👀 I’m interested in TypeScript, Best Practices, Javascript, Backend development & React 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me `Slack, Email`
 
